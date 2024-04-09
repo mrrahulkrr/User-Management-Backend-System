@@ -45,6 +45,13 @@ This is a Node.js backend application for managing user data, including creation
    ```bash
    npm test
    ```
+2. **SwaggerUi:**
+
+   Run the tests and go to this sample url to see swagger Ui:
+
+   [[```bash
+   npm test
+   ```](http://localhost:3000/api-docs/#/)](http://localhost:3000/api-docs/#/)
 
 ## API Endpoints
 
